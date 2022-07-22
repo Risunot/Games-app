@@ -1,0 +1,29 @@
+:root {
+  --heading-ol-red-color: #c3073f;  
+}
+
+body {
+    background-color: #1a1a1d;
+}
+
+main {
+    color: var(--heading-ol-red-color);
+}
+
+h1 {
+    color: var(--heading-ol-red-color);
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: var(--heading-ol-red-color);
+}
+
+.button {
+    background-color: #4e4e50;
+    border-radius: 0.6rem;
+    padding: 0.5rem;
+}
